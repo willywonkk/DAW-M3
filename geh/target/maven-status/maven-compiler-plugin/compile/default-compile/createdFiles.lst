@@ -1,0 +1,4 @@
+com\example\geh\model\Producto.class
+com\example\geh\repository\ProductoRepository.class
+com\example\geh\controller\ProductoController.class
+com\example\geh\service\ProductoService.class
